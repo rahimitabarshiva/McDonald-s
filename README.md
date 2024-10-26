@@ -1,13 +1,7 @@
-# first-project
-
-
-
-**McDonald's **
+# McDonald's🍟🍕🍔
+**In this project, I tried to design a replica of the McDonald's website using HTML and CSS**
 
 ![project view](https://github.com/user-attachments/assets/023338e4-7279-480d-90a8-6e63cc56a737)
-
-
-
 - [Demo Project](https://rahimitabarshiva.github.io/first-project/)
 
 - Developed by Shiva Rahimitabar
